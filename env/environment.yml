@@ -1,0 +1,10 @@
+name: datasci-playbook 
+dependencies: 
+"  - python=3.11" 
+"  - pandas" 
+"  - numpy" 
+"  - matplotlib" 
+"  - scikit-learn" 
+"  - seaborn" 
+"  - jupyter" 
+"  - pytest" 
